@@ -1,0 +1,15 @@
+
+  ______                               _                  ____        _  _   
+ |  ____|                             (_)                |___ \      | || |  
+ | |__    __  __   ___   _ __    ___   _   ___    ___      __) |     | || |_ 
+ |  __|   \ \/ /  / _ \ | '__|  / __| | | / __|  / _ \    |__ <      |__   _|
+ | |____   >  <  |  __/ | |    | (__  | | \__ \ |  __/    ___) |  _     | |  
+ |______| /_/\_\  \___| |_|     \___| |_| |___/  \___|   |____/  (_)    |_|  
+                                                                             
+                                                                             
+
+You will use the GuessStarter.java file provided to complete this exercise. 
+
+Save and Submit Step 3 as version 0.5
+Save and Submit Step 4 as version 1.0
+Save and Submit Step 5 as version 1.5

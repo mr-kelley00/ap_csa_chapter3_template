@@ -1,0 +1,15 @@
+  ______                               _                  ____        ____  
+ |  ____|                             (_)                |___ \      |___ \ 
+ | |__    __  __   ___   _ __    ___   _   ___    ___      __) |       __) |
+ |  __|   \ \/ /  / _ \ | '__|  / __| | | / __|  / _ \    |__ <       |__ < 
+ | |____   >  <  |  __/ | |    | (__  | | \__ \ |  __/    ___) |  _   ___) |
+ |______| /_/\_\  \___| |_|     \___| |_| |___/  \___|   |____/  (_) |____/ 
+                                                                            
+                                                                            
+You will need to create your own .java file for this exercise.
+
+As you work on this exercise, save and submit continous updates to GitHub.  
+
+Save and submit your final program as version 9000.0
+
+
